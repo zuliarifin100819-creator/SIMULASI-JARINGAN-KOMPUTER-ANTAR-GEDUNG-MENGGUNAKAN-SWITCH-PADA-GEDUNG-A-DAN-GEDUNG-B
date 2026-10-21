@@ -63,9 +63,9 @@ Koneksi berhasil jika PC tujuan memberikan balasan `Reply from ...`. Jika ping p
 | Anggota | Tugas |
 |---|---|
 | Zuli Arifin | Membuat topologi di Cisco Packet Tracer dan memberi nama perangkat serta lokasi gedung. |
-| Nafran Julian | Menghubungkan kabel dan mengatur alamat IP pada PC1 sampai PC4. |
-| Meriadi | Menguji koneksi dengan ping, mencatat hasil, dan membantu menyusun laporan. |
-| Semua anggota | Memeriksa simulasi, menyimpan file proyek `.pkt`, dan menyiapkan presentasi. |
+| Nafra julian | Menghubungkan kabel dan mengatur alamat IP pada PC1 sampai PC4. |
+| Abadi | Menguji koneksi dengan ping, mencatat hasil, dan membantu menyusun laporan. |
+| M. Maulfi fata al khair | Memeriksa simulasi, menyimpan file proyek `.pkt`, dan menyiapkan presentasi. |
 
 Simulasi dikerjakan menggunakan satu laptop. Anggota dapat bergantian mengoperasikan Packet Tracer; anggota lain membantu memeriksa konfigurasi, mencatat hasil, dan menyiapkan laporan.
 
